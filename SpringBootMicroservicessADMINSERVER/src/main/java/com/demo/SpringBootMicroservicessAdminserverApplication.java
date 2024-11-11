@@ -14,7 +14,7 @@ public class SpringBootMicroservicessAdminserverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMicroservicessAdminserverApplication.class, args);
-		System.out.println();
+		System.out.println("Hello World!");
 	}
 
 }
